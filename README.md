@@ -1,4 +1,11 @@
-## Hi there 👋
+# About me
+
+* computer science student
+* love coding
+* Web dev fullstack
+  - Primarily: Typescript React, Java Springboot
+* My pinned repositories are my biggest projects
+* gym rat 🐀
 
 <!--
 **jakubp03/jakubp03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
